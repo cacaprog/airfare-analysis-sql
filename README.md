@@ -58,8 +58,8 @@ Key dataset dimensions:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/airfare-analysis
-cd airfare-analysis
+git clone https://github.com/cacaprog/airfare-analysis-sql
+cd airfare-analysis-sql
 ```
 
 2. Create a `docker-compose.yml` file:
